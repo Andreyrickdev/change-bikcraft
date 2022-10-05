@@ -26,3 +26,14 @@
     font-size: 18px;
     position: relative;
 }
+
+.header-menu a::after {
+    content: "";
+    display: block;
+    height: 2px;
+    width: 0px;
+    background-color: #ffffff;
+    margin-top: 4px;
+    transition: 0.3s;
+    position: absolute;
+}
