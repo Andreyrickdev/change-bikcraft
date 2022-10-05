@@ -50,7 +50,7 @@
     }
 
     .header-menu a {
-        background-color: #111111;
+        background-color: var(--color-c11);
         padding: 12px 16px;
         border-radius: 4px;
     }
