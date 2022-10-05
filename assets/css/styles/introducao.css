@@ -63,7 +63,11 @@
 }
 
 @media (max-width: 800px) {
-
+    .introducao-bg {
+        background-color: #111111;
+        padding-top: 40px;
+        box-shadow: inset 0  -60px #ffffff;
+    }
 }
 
 @media (max-width: 600px) {
