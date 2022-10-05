@@ -20,14 +20,6 @@
 
 .introducao h1 {
     margin-bottom: 32px;
-    font-size: 64px;
-    line-height: 1.125;
-    font-family: "Poppins";
-    font-weight: 600;
-}
-
-.introducao h1 span {
-    color: #ffbb00;
 }
 
 .introducao p {
@@ -41,9 +33,6 @@
 
 
 @media (max-width: 1200px) {
-    .introducao h1 {
-        font-size: 48px;
-    }
 
     .introducao p {
         font-size: 18px;
@@ -67,7 +56,6 @@
     }
 
     .introducao h1 {
-        font-size: 32px;
         margin-bottom: 16px;
     }
 

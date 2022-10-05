@@ -1,0 +1,22 @@
+.first-title {
+    font-size: 64px;
+    line-height: 1.125;
+    font-family: "Poppins";
+    font-weight: 600;
+}
+
+.point {
+    color: #ffbb00;
+}
+
+@media (max-width: 1200px) {
+    .first-title {
+        font-size: 48px;
+    }
+}
+
+@media (max-width: 800px) {
+    .first-title {
+        font-size: 32px;
+    }
+}
