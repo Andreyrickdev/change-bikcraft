@@ -22,3 +22,7 @@
     font-size: 64px;
     line-height: 1.125;
 }
+
+.introducao h1 span {
+    color: #ffbb00;
+}
