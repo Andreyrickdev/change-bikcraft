@@ -12,3 +12,9 @@
     margin: 0 auto;
     gap: 20px;
 }
+
+.header-menu {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
