@@ -73,6 +73,10 @@
         grid-template-columns: 1fr;
         gap: 32px;
     }
+
+    .introducao-conteudo {
+        padding-bottom: 0px;
+    }
 }
 
 @media (max-width: 600px) {
