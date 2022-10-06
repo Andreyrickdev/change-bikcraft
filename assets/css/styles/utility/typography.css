@@ -57,6 +57,13 @@
     font-weight: 400;
 }
 
+.font-ro-p {
+    font-size: 1rem;
+    line-height: 1.5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+
 .point {
     color: #ffbb00;
 }
