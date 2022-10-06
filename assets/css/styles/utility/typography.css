@@ -64,6 +64,13 @@
     font-weight: 400;
 }
 
+.font-po-p {
+    font-size: 1rem;
+    line-height: 1.5;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+
 .point {
     color: #ffbb00;
 }
