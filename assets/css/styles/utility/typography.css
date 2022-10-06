@@ -5,6 +5,13 @@
     font-weight: 600;
 }
 
+.font-ro-g {
+    font-size: 2rem;
+    line-height: 1.25;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+}
+
 .font-ro-m, .font-ro-m-bold {
     font-size: 1.5rem;
     line-height: 1.5;
