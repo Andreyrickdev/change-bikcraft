@@ -1,14 +1,14 @@
 .font-po-xx {
     font-size: 4rem;
     line-height: 1.125;
-    font-family: "Poppins", sans-serif;
+    font-family: "Poppins", sans-serif;         /*GRANDE*/
     font-weight: 600;
 }
 
 .font-ro-s, .font-ro-s-bold {
     font-size: 1.5rem;
     line-height: 1.5;
-    font-family: "Roboto";
+    font-family: "Roboto";                  /*PARAGRAFO*/
     font-weight: 400;
 }
 
