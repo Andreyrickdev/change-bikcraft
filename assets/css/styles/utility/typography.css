@@ -1,11 +1,11 @@
-.font-po-xx {
+.font-po-gg {
     font-size: 4rem;
     line-height: 1.125;
     font-family: "Poppins", sans-serif;         /*GRANDE*/
     font-weight: 600;
 }
 
-.font-ro-s, .font-ro-s-bold {
+.font-ro-m, .font-ro-m-bold {
     font-size: 1.5rem;
     line-height: 1.5;
     font-family: "Roboto";                  /*PARAGRAFO*/
@@ -17,13 +17,13 @@
 }
 
 @media (max-width: 1200px) {
-    .font-po-xx {
+    .font-po-gg {
         font-size: 3rem;
     }
 }
 
 @media (max-width: 800px) {
-    .font-po-xx {
+    .font-po-gg {
         font-size: 2rem;
     }
 }
