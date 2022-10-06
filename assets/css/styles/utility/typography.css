@@ -28,7 +28,7 @@
 .font-ro-m, .font-L-bold-U {
     font-size: 1.5rem;
     line-height: 1.5;
-    font-family: "Roboto";                  /*PARAGRAFO*/
+    font-family: "Roboto",sans-serif;                  /*PARAGRAFO*/
     font-weight: 400;
 }
 
