@@ -10,13 +10,13 @@
 }
 
 @media (max-width: 1200px) {
-    .first-title {
+    .font-po-xx {
         font-size: 3rem;
     }
 }
 
 @media (max-width: 800px) {
-    .first-title {
+    .font-po-xx {
         font-size: 2rem;
     }
 }
