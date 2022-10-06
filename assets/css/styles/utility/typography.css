@@ -19,6 +19,12 @@
     font-weight: 600;
 }
 
+.font-L-bold-U {
+    font-weight: 500;
+    letter-spacing: 0.015em;
+    text-transform: uppercase;
+}
+
 .font-ro-m, .font-ro-m-bold {
     font-size: 1.5rem;
     line-height: 1.5;
