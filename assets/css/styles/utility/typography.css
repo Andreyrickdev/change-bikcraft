@@ -78,6 +78,13 @@
     font-weight: 400;
 }
 
+.font-po-ppp {
+    font-size: 0.75rem;
+    line-height: 1.35;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+
 .point {
     color: #ffbb00;
 }
