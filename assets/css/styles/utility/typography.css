@@ -46,6 +46,10 @@
     font-weight: 500;
 }
 
+.font-bold {
+    font-weight: 600;
+}
+
 .point {
     color: #ffbb00;
 }
