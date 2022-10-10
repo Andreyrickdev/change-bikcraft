@@ -19,3 +19,7 @@
     --color-p2: #E4A30B;
     --color-p1: #FFBB00;
 }
+
+.color-12 {
+    color: var(--color-c12);
+}
