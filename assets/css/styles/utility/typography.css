@@ -93,6 +93,11 @@
     .font-po-gg-bold {
         font-size: 3rem;
     }
+
+    .font-ro-m {
+        font-size: 18px;
+    }
+
 }
 
 @media (max-width: 800px) {
