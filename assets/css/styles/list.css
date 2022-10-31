@@ -41,3 +41,7 @@
     margin-right: 8px;
     background-color: var(--color-p1);
 }
+
+.bicicletas-lista li span {
+    padding-left: 20px;
+}
