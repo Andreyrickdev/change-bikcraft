@@ -18,3 +18,7 @@
     max-width: 1440px;
     margin: 0 auto;
 }
+
+.bicicletas-lista img {
+    margin-bottom: 16px;
+}
