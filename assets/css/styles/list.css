@@ -19,6 +19,10 @@
     margin: 0 auto;
 }
 
+.bicicletas-lista a {
+    display: block;
+}
+
 .bicicletas-lista img {
     margin-bottom: 16px;
 }
