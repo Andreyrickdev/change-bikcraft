@@ -22,6 +22,6 @@ img {
     display: block;
 }
 
-img[href$=".jpg"]{
+img[src$=".jpg"]{
     border-radius: 4px;
 }
