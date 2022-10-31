@@ -29,6 +29,8 @@
 
 .bicicletas-lista h3 {
     margin-bottom: 8px;
+    display: flex;
+    align-items: center;
 }
 
 .bicicletas-lista h3::before {
