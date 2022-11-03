@@ -47,6 +47,10 @@
     background-color: var(--color-p1);
 }
 
+.bicicletas-lista a:hover h3::before {
+    width: 24px;
+}
+
 .bicicletas-lista li span {
     padding-left: 20px;
 }
